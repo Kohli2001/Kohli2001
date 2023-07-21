@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kohli2001" alt="kohli2001" /></a> </p>
 
-- 🌱 I’m currently learning **Web Technologies**
+- 🌱 I’m currently learning **JAVA full Stack Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kohli2001](https://github.com/Kohli2001)
 
